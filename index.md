@@ -28,4 +28,8 @@ These are mainly useless. But since "no one can really predict the future otherw
 
 11. [我们不是人自己了](./articles/011-we-are-not-persons-themselves.md)
 
+12. [下一次迭代](./articles/012-next-iteration.md)
+
+13. [比Hymmnos更合适的自然语言](./articles/013-better-natural-lang.md)
+
 Meow~
